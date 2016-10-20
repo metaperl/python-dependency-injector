@@ -64,7 +64,7 @@ injection are delegated to external code - the *dependency injector*.
 
 Popular terminology of dependency injection pattern:
 
-+ Object **A**, that is dependant on object **B**, is often called - 
++ Object **A**, that is dependent on object **B**, is often called - 
   the *client*.
 + Object **B**, that is a dependency, is often called - the *service*.
 + External code that is responsible for creation of objects and injection 
