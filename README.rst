@@ -201,7 +201,7 @@ Next example demonstrates run of example application defined above:
 Alternative definition styles of providers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Dependecy Injector* supports few other styles of dependency injections 
+*Dependency Injector* supports few other styles of dependency injections 
 definition.
 
 IoC containers from previous example could look like these:
